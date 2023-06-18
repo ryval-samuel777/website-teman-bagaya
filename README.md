@@ -23,4 +23,9 @@ start server web server dengan perintah berikut ini
 ```
 gunicorn -b :8080 server:app
 ```
-setelah selesai. website sudah siap dipakai
+setelah selesai. website sudah siap dipakai.
+cukup buka saja di website 
+```
+# localhost 
+localhost:8000/ 
+```
