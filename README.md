@@ -18,3 +18,9 @@ pertama install dulu dependency yang digunakan
 ```
 pip install -r requirements.txt
 ```
+setelah dependency nya terinstall lalu kita coba 
+start server web server dengan perintah berikut ini
+```
+gunicorn -b :8080 server:app
+```
+setelah selesai. website sudah siap dipakai
