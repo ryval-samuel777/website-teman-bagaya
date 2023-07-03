@@ -5,6 +5,12 @@ repo utama dari project ini ada dibawah ini
 
 ```
 https://github.com/grasio174/Bangkit-Capstone-project
+
+```
+dan dibawah ini adalah link website kami
+
+```
+https://website-dot-bangkit-capstone-c23-ps012.et.r.appspot.com/
 ```
 
 ## Tech Stack 
